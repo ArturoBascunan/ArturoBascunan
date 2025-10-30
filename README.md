@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: arturo.bascunan@gmail.com
 - 😄 Pronouns: Arturo
-- ⚡ Fun fact: Run Forest run!!
+- ⚡ Fun fact: 
 
 <!---
 ArturoBascunan/ArturoBascunan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
